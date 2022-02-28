@@ -11,6 +11,7 @@
 		3F927BC127C937FA00DEBF3D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F927BC027C937FA00DEBF3D /* ContentView.swift */; };
 		3F927BC327C9380200DEBF3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F927BC227C9380200DEBF3D /* Assets.xcassets */; };
 		3F927BC627C9380200DEBF3D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F927BC527C9380200DEBF3D /* Preview Assets.xcassets */; };
+		3F927BCE27C93BB700DEBF3D /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F927BCD27C93BB700DEBF3D /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3F927BC227C9380200DEBF3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F927BC527C9380200DEBF3D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F927BC727C9380200DEBF3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F927BCD27C93BB700DEBF3D /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3F927BBE27C937FA00DEBF3D /* Za_HunterApp.swift */,
 				3F927BC027C937FA00DEBF3D /* ContentView.swift */,
+				3F927BCD27C93BB700DEBF3D /* LocationManager.swift */,
 				3F927BC227C9380200DEBF3D /* Assets.xcassets */,
 				3F927BC727C9380200DEBF3D /* Info.plist */,
 				3F927BC427C9380200DEBF3D /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				3F927BC127C937FA00DEBF3D /* ContentView.swift in Sources */,
 				3F927BBF27C937FA00DEBF3D /* Za_HunterApp.swift in Sources */,
+				3F927BCE27C93BB700DEBF3D /* LocationManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
